@@ -1,0 +1,6 @@
+client id: dZwqwPnfhMcUHZOuLrrPygWI
+client secret: r7a0dE0jk4t7H0zOHwLPnhOLslkEdm-,tLtquJkUXbza0bCQgsXAT3A_w7d+Ol5A8hXHYJWPQ5_nL,CA,lfqREBxZ58,jaRB4Z2gig9lWyAi9-E4pZW7RpmBkwHEAovB
+
+token: AstraCS:dZwqwPnfhMcUHZOuLrrPygWI:0fd5956cb941c1326bb28ca18b317a1bb90a4c488eeedae8e77c83f6722f3439
+
+
