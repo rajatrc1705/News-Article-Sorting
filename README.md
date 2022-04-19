@@ -1,1 +1,3 @@
-"# News-Article-Sorting" 
+# News Article Classification
+
+iNeuron.ai internship project.
