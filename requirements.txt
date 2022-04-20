@@ -28,7 +28,6 @@ defusedxml==0.7.1
 entrypoints==0.4
 executing==0.8.3
 fastjsonschema==2.15.3
-flatbuffers==20210226132247
 fonttools==4.32.0
 frozenlist==1.2.0
 gast==0.4.0
@@ -103,7 +102,6 @@ pyrsistent==0.18.1
 PySocks==1.7.1
 python-dateutil==2.8.2
 pytz==2022.1
-pytz-deprecation-shim==0.1.0.post0
 pywin32==303
 pywinpty==2.0.5
 pyzmq==22.3.0
