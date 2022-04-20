@@ -141,6 +141,6 @@ wheel==0.35.1
 widgetsnbextension==3.6.0
 win-inet-pton==1.1.0
 wincertstore==0.2
-wrapt==1.13.3
-yarl==1.6.3
-zipp==3.7.0
+wrapt
+yarl
+zipp
