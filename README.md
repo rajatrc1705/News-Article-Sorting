@@ -4,6 +4,12 @@ iNeuron.ai internship project.
 
 [Project Deployed On Cloud](https://share.streamlit.io/rajatrc1705/news-article-sorting/main/main.py)
 
+## Demo Video 
+
+https://user-images.githubusercontent.com/52173002/165479057-8540e7b6-795e-487c-91b5-e152bf10593f.mp4
+
+
+
 ![image](https://user-images.githubusercontent.com/52173002/164449948-dc813897-77a6-44fc-a912-3964dd4ef843.png)
 
 ## Input:
