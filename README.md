@@ -2,7 +2,8 @@
 
 iNeuron.ai internship project.
 
-Project Deployed On Cloud https://share.streamlit.io/rajatrc1705/news-article-sorting/main/main.py
+[Project Deployed On Cloud](https://share.streamlit.io/rajatrc1705/news-article-sorting/main/main.py)
+
 ![image](https://user-images.githubusercontent.com/52173002/164449948-dc813897-77a6-44fc-a912-3964dd4ef843.png)
 
 ## Input:
